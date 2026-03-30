@@ -1,17 +1,29 @@
-# nail_tech_daily_notes
+# 💅 Nail Tech Daily Notes
 
-A new Flutter project.
+A modern Flutter application designed for nail technicians to manage daily services, track client information, and generate reports efficiently.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 👩‍🎨 Manage clients information
+- 📝 Add and track daily services
+- 📊 View reports and analytics
+- 🔐 Authentication (Login/Register)
+- 🌐 Multi-language support (optional)
+- ⚙️ User profile & settings
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens
+
+- Splash Screen
+- Login / Register
+- Home Dashboard
+- Services Management
+- Reports Overview
+- Profile & Settings
+
+---
+
+## 🏗️ Project Structure
